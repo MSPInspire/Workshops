@@ -1,4 +1,4 @@
-# Workshops for MSPInspire
+# Workshops for MSInspire
 
 Welcome to the MSPInspire Workshop repository in which you can find a bunch of workshops which you can use in your own presentations from our awesome contributors!
 
